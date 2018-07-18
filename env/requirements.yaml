@@ -1,4 +1,7 @@
 dependencies:
+- name: activiti-cloud-gateway
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.56
 - name: application
   repository: file://../application
   version: 0.1.0
