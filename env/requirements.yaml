@@ -7,7 +7,7 @@ dependencies:
   version: 1.0.56
 - name: activiti-cloud-query
   repository: http://jenkins-x-chartmuseum:8080
-  version: 7.0.34
+  version: 7.0.35
 - name: application
   repository: file://../application
   version: 0.1.0
