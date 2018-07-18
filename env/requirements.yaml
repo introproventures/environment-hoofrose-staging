@@ -1,7 +1,7 @@
 dependencies:
 - name: activiti-cloud-audit
   repository: http://jenkins-x-chartmuseum:8080
-  version: 7.0.14
+  version: 7.0.15
 - name: activiti-cloud-demo-ui
   repository: http://jenkins-x-chartmuseum:8080
   version: 7.0.41
